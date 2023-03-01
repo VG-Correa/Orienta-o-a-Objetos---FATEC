@@ -1,0 +1,3 @@
+Nome,email,senha
+Victor,victor@gmail.com,123
+Fabricio,fabricio@gmail.com,456
